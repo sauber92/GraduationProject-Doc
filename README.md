@@ -11,7 +11,7 @@
 
 ### 시스템 구성도  
 
-![](https://github.com/sauber92/GraduationProject-Doc/blob/master/team608-Doc/Reference/Diagram/system.png?raw=true)  
+![](https://github.com/sauber92/GraduationProject-Doc/blob/master/Documentation/Reference/Diagram/system.png?raw=true)  
 
 **전자석을 이용한 타자 연습기**는 컴퓨터 응용프로그램인 *Typing Assistant*와 키보드 위에 올려놓고 사용하는 *Keyboard Panel*, 장갑형태의 *FingerTip*으로 이루어져있다.  
 
@@ -19,7 +19,7 @@
 
 ### 시퀀스 다이어그램  
 
-![](https://github.com/sauber92/GraduationProject-Doc/blob/master/team608-Doc/Reference/Diagram/sequence.png?raw=true)  
+![](https://github.com/sauber92/GraduationProject-Doc/blob/master/Documentation/Reference/Diagram/sequence.png?raw=true)  
 
 **과정 1,2**: 전원이 KP와 FT에 인가되면 KP와 FT은 서로 블루투스 연결을 맺는다. TA는 어플리케이션이 실행될 때 2초의 로딩시간을 거치면서 KP와 FT의 블루투스 연결이 맺어지는 것을 기다린다.  
 
@@ -45,7 +45,7 @@
 
 ### 소개  
 
-![](https://github.com/sauber92/GraduationProject-Doc/blob/master/team608-Doc/Reference/Diagram/tp.png?raw=true)
+![](https://github.com/sauber92/GraduationProject-Doc/blob/master/Documentation/Reference/Diagram/tp.png?raw=true)
 
 TA는 Node.js 엔진과 Chromium 브라우져을 기반으로 데스크탑 어플리케이션을 제작할 수 있는 [Electron](https://electron.atom.io/)을 사용하여 만들어졌다.  
 
@@ -84,7 +84,7 @@ TA는 Node.js 엔진과 Chromium 브라우져을 기반으로 데스크탑 어�
 
 ### 소개  
 
-![](https://github.com/sauber92/GraduationProject-Doc/blob/master/team608-Doc/Reference/Diagram/KP.png?raw=true)  
+![](https://github.com/sauber92/GraduationProject-Doc/blob/master/Documentation/Reference/Diagram/KP.png?raw=true)  
 
 Arduino Mega 보드와 16채널 릴레이 2개, 전자석 26개를 사용하여 구성하였다. 블루투스 모듈은 HC-06을 사용하였다.  
 
@@ -106,7 +106,7 @@ Arduino Mega 보드와 16채널 릴레이 2개, 전자석 26개를 사용하여 
 
 ### 소개  
 
-![](https://github.com/sauber92/GraduationProject-Doc/blob/master/team608-Doc/Reference/Diagram/FT.png?raw=true)  
+![](https://github.com/sauber92/GraduationProject-Doc/blob/master/Documentation/Reference/Diagram/FT.png?raw=true)  
 
 Arduino Uno 보드와 4채널 릴레이 2개, 전자석 8개를 사용하여 구성하였다. 블루투스 모듈은 HC-06을 사용하였다.  
 
