@@ -9,6 +9,8 @@
 ### 프로젝트 명  
 전자석을 이용한 타자 연습기   
 
+![](https://github.com/sauber92/GraduationProject-Doc/blob/master/Documentation/Reference/TA-icon/icon.png?raw=true)  
+
 ### 시스템 구성도  
 
 ![](https://github.com/sauber92/GraduationProject-Doc/blob/master/Documentation/Reference/Diagram/system.png?raw=true)  
