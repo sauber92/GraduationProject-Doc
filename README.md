@@ -135,7 +135,9 @@ Arduino Uno 보드와 4채널 릴레이 2개, 전자석 8개를 사용하여 구
 
 ## 발표자료  
 
-[최종 발표 자료(SlideShare)](https://www.slideshare.net/JunyoungJung8/graduation-project-76655191)
+[최종 발표자료(SlideShare) - 17.06.01](https://www.slideshare.net/JunyoungJung8/graduation-project-76655191)  
+
+[창의적 종합설계 경진대회 발표자료(SldideShare) - 17.07.04](https://www.slideshare.net/JunyoungJung8/team608-77488804)  
 
 ***
 
